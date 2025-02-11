@@ -1,0 +1,15 @@
+/* Change background color of the primary card */
+.bg-primary {
+    background-color: #ff5e00 !important; /* Change this to any color */
+}
+
+/* Change text color inside cards */
+.card {
+    font-size: 18px;
+}
+
+/* Custom styles for card-footer links */
+.card-footer a {
+    font-weight: bold;
+    text-decoration: none;
+}
